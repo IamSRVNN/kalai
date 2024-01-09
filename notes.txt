@@ -1,0 +1,7 @@
+1. Initiate order (location)
+2. Customer location
+3. Create random delivery persons (random 5)
+
+4. Delivery criteria (to the delivery person)
+    - P1: Distance (delivery person current location to shop + shop to customer)
+    - P2: Charge level (10% needed for 2 Kms)
